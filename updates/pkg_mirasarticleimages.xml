@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>Miras Preview</name>
+    <description>Intro image, meta description (plain or AI) and Open Graph tags from each article's own content, with reviewed batches and rollback.</description>
+    <element>pkg_mirasarticleimages</element>
+    <type>package</type>
+    <client>site</client>
+    <version>0.4.0</version>
+    <infourl title="Miras Preview 0.4.0">https://github.com/velisnolis/MirasPreview-releases/releases/tag/v0.4.0</infourl>
+    <downloads>
+      <downloadurl type="full" format="zip">https://github.com/velisnolis/MirasPreview-releases/releases/download/v0.4.0/pkg_mirasarticleimages-0.4.0.zip</downloadurl>
+    </downloads>
+    <sha256>65e9d30c76877831bc23c6c01eb93e8fdd5551a98cce7705e9e67c647edd9051</sha256>
+    <tags>
+      <tag>stable</tag>
+    </tags>
+    <maintainer>Alex Miras</maintainer>
+    <maintainerurl>https://miras.pro</maintainerurl>
+    <targetplatform name="joomla" version="6\.[0-9]+"/>
+    <php_minimum>8.3</php_minimum>
+  </update>
+</updates>
