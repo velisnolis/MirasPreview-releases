@@ -6,12 +6,12 @@
     <element>pkg_mirasarticleimages</element>
     <type>package</type>
     <client>site</client>
-    <version>0.4.4</version>
-    <infourl title="Miras Preview 0.4.4">https://github.com/velisnolis/MirasPreview-releases/releases/tag/v0.4.4</infourl>
+    <version>0.4.5</version>
+    <infourl title="Miras Preview 0.4.5">https://github.com/velisnolis/MirasPreview-releases/releases/tag/v0.4.5</infourl>
     <downloads>
-      <downloadurl type="full" format="zip">https://github.com/velisnolis/MirasPreview-releases/releases/download/v0.4.4/pkg_mirasarticleimages-0.4.4.zip</downloadurl>
+      <downloadurl type="full" format="zip">https://github.com/velisnolis/MirasPreview-releases/releases/download/v0.4.5/pkg_mirasarticleimages-0.4.5.zip</downloadurl>
     </downloads>
-    <sha256>f4d9f71c69e0215f1e6a03843e74a4b6580afe0f22a94ee52d84fc289c596aa2</sha256>
+    <sha256>77cb0a64666267e01daffb80e7225a78c551da2fd2ceadd22b5ad6911835906c</sha256>
     <tags>
       <tag>stable</tag>
     </tags>
